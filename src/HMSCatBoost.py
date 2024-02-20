@@ -179,6 +179,8 @@ def runModel(y_train, X_train, y_test, X_test):
     
     print("y_test_df: ", y_test_df)
     print("y_pred_df: ", y_pred_df)
+
+    print("CatBoost Starter - By Alessandro Isceri & Mattia Ingrassia")
     
     for i in range(6):
         print("R^2 ", targets[i], " : ", sklearn.metrics.r2_score(y_test_df[[targets[i]]], y_pred_df[[targets[i]]]))    
