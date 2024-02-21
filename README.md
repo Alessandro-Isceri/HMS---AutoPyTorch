@@ -1,4 +1,4 @@
-# HMS-AutoPyTorch
+# HMS - AutoPyTorch
 
 Il progetto consiste nell’analizzare un dataset contenente segnali elettroencefalografici (EEG) e spettrogrammi utilizzando AutoML come tecnica di Machine Learning.
 
@@ -86,5 +86,5 @@ pip install "git+https://github.com/Borda/Auto-PyTorch.git@bump/sklearn-1.0+"
 ```
 ### Extra
 
-Una documentazione più approfondita sul lavoro è visualizzabile nel file [D10 - AutoML for Brain Prediction.pdf](https://github.com/Alessandro-Isceri/HMS-AutoPyTorch/blob/main/D10%20-%20AutoML%20for%20Brain%20Prediction.pdf)
+Una documentazione più approfondita sul lavoro è visualizzabile nel file [D10 - AutoML for Brain Predictor.pdf](https://github.com/Alessandro-Isceri/HMS-AutoPyTorch/blob/main/D10%20-%20AutoML%20for%20Brain%20Predictor.pdf)
 
