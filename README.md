@@ -41,7 +41,7 @@ Il link per il notebook di Kaggle che utilizza AutoPyTorch è disponibile [qui](
 Nel momento in cui è stato sviluppato questo progetto, la normale installazione di AutoPyTorch creava dei problemi con le versioni di python successive alla 3.9.
 Per riuscire ad installare e ad utilizzare correttamente AutoPyTorch si può procedere in questi due modi
 
-#### Utilizzo di un virtual environment
+#### 1) Utilizzo di un virtual environment
 
 Con python 3.9 i problemi creati dalle dipendenze di AutoPyTorch non sussistono, dunque creando un virtual environment si può facilmente risolvere il problema.
 ```shell
@@ -60,7 +60,7 @@ Una volta che il setup dell'ambiente di lavoro è terminato, è possibile proseg
 ```shell
 /venv/bin/python3.9 HMSAutoPyTorch.py
 ```
-#### Installazione di AutoPyTorch tramite git
+#### 2) Installazione di AutoPyTorch tramite git
 
 Grazie all'intervento di un altro utente ([borda](https://github.com/Borda)), che ha modificato le dipendenze come è possibile vedere [qui](https://github.com/automl/Auto-PyTorch/pull/506), è possibile utilizzare il seguente comando per installare AutoPyTorch
 ```shell
