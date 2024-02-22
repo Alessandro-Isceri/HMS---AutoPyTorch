@@ -86,5 +86,5 @@ pip install "git+https://github.com/Borda/Auto-PyTorch.git@bump/sklearn-1.0+"
 ```
 ### Extra
 
-Una documentazione più approfondita sul lavoro è visualizzabile nel file [D10 - AutoML for Brain Predictor.pdf](https://github.com/Alessandro-Isceri/HMS-AutoPyTorch/blob/main/D10%20-%20AutoML%20for%20Brain%20Predictor.pdf)
+Una documentazione più approfondita del lavoro è visualizzabile nel file [D10 - AutoML for Brain Predictor.pdf](https://github.com/Alessandro-Isceri/HMS-AutoPyTorch/blob/main/D10%20-%20AutoML%20for%20Brain%20Predictor.pdf)
 
